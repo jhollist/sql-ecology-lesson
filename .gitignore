@@ -1,2 +1,4 @@
 *~
 *.swp
+.Rproj.user
+sql-ecology-lesson.Rproj
